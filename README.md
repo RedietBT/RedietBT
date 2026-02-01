@@ -72,7 +72,7 @@ how software is designed and delivered.
   <img src="https://github-readme-stats-fast.vercel.app/api?username=RedietBT&show_icons=true&theme=blueberry" height="165"/>
   
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedietBT&theme=dark_blue" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=RedietBT&theme=blueberry" height="165"/>
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RedietBT&layout=compact&theme=blueberry" height="165"/>
