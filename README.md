@@ -89,7 +89,9 @@ how software is designed and delivered.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=RedietBT&theme=react-dark&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RedietBT&theme=react-dark&hide_border=true"
+  />
 </p>
 
 ---
