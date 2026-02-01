@@ -1,6 +1,6 @@
 <!-- Hero Developer Background -->
 <p align="center">
-  <img src="dev.jpg" width="100%" />
+  <img src="dev.jpg" width="100%" height="320px" />
 </p>
 
 <h1 align="center">Hi, I'm Rediet Tadesse 👋</h1>
