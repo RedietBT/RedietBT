@@ -49,7 +49,7 @@ how software is designed and delivered.
 ## 🧩 Tools & Practices
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode,swagger&theme=dark" />
 </p>
 
 ---
@@ -68,21 +68,12 @@ how software is designed and delivered.
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=RedietBT&show_icons=true&theme=radical&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=RedietBT&theme=radical&hide_border=true"
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RedietBT&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedietBT&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedietBT&layout=compact&theme=radical&hide_border=true"
-    height="150"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedietBT&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
@@ -90,9 +81,7 @@ how software is designed and delivered.
 ## 🏆 Achievements & Trophies
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=RedietBT&theme=radical&no-frame=true&row=1&column=6"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=RedietBT&theme=radical&row=1&column=6" />
 </p>
 
 ---
@@ -100,9 +89,7 @@ how software is designed and delivered.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RedietBT&theme=react-dark&hide_border=true"
-  />
+  <img src="https://activity-graph.herokuapp.com/graph?username=RedietBT&theme=react-dark&hide_border=true" />
 </p>
 
 ---
