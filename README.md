@@ -73,7 +73,7 @@ how software is designed and delivered.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedietBT&layout=compact&theme=radical" height="150"/>
+ <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RedietBT&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
