@@ -68,7 +68,7 @@ how software is designed and delivered.
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RedietBT&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=RedietBT&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedietBT&theme=radical" height="165"/>
 </p>
 
