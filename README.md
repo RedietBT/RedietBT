@@ -10,7 +10,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+secure+and+scalable+systems;Backend+with+Spring+Boot+%26+Go;Mobile+Apps+with+Flutter;Always+learning%2C+always+building" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+secure+and+scalable+systems;Backend+with+Spring+Boot+%26+Go;Mobile+Apps+with+Flutter;Always+learning%2C+always+building"
+  />
 </p>
 
 ---
@@ -63,15 +65,44 @@ how software is designed and delivered.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RedietBT&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedietBT&theme=radical" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=RedietBT&show_icons=true&theme=radical&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=RedietBT&theme=radical&hide_border=true"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedietBT&layout=compact&theme=radical" height="150"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedietBT&layout=compact&theme=radical&hide_border=true"
+    height="150"
+  />
+</p>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=RedietBT&theme=radical&no-frame=true&row=1&column=6"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RedietBT&theme=react-dark&hide_border=true"
+  />
 </p>
 
 ---
