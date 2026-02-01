@@ -68,20 +68,14 @@ how software is designed and delivered.
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=RedietBT&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedietBT&theme=radical" height="165"/>
-</p>
-
-<p align="center">
- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RedietBT&layout=compact&theme=radical" height="150"/>
-</p>
-
----
-
-## 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RedietBT&theme=radical&row=2&column=6&margin-w=10&margin-h=10" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=RedietBT&show_icons=true&theme=blueberry" height="165"/>
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedietBT&theme=dark_blue" height="165"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RedietBT&layout=compact&theme=blueberry" height="165"/>
 </p>
 
 ---
