@@ -49,7 +49,7 @@ how software is designed and delivered.
 ## 🧩 Tools & Practices
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,openapi,docker,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode&theme=dark" />
 </p>
 
 
